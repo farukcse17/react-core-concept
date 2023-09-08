@@ -2,6 +2,7 @@ import './App.css'
 import Team from './Team';
 import Counter from './counter'
 import Users from './Users'
+import Friends from './Friends';
 
 function App() {
  function handelClick() {
@@ -16,6 +17,7 @@ const addToFive = (num) =>alert(num + 5);
 
   return (
     <>
+        <Friends></Friends>
         <Users></Users>
         <Team></Team>
         <Counter></Counter>
