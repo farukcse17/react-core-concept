@@ -1,0 +1,10 @@
+.team{
+    /* border: 2px solid lightblue; */
+    padding: 20px;
+    box-shadow: 2px 2px 5px rgb(181, 182, 181);
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.team button{
+    margin-right: 20px;
+}
